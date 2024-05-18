@@ -1,0 +1,20 @@
+.upper {
+    display:flex;
+    flex:1;
+    flex-direction: row;
+    font-size: 20px;
+    height: 200px;
+    justify-content: space-evenly;
+    align-items: baseline;
+    gap: 4rem;
+    margin-right: 100px;
+  
+}
+
+.first {
+    font-size: 25px;
+    margin-right: auto;
+    display:inline-block;
+    margin-left:100px;
+    
+}
